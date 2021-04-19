@@ -1,9 +1,9 @@
-package it.polito.tdp.model;
+package it.polito.tdp.anagrammi.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import it.polito.tdp.db.AnagrammaDAO;
+import it.polito.tdp.anagrammi.db.AnagrammaDAO;
 
 public class Model {
 	AnagrammaDAO dao;

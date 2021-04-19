@@ -1,4 +1,4 @@
-package it.polito.tdp.db;
+package it.polito.tdp.anagrammi.db;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
